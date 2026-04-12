@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"addontitle"			"Black Market Titan Project I4"
+	"addonDescription"		"Simplified adding titans to the game, I'll look into cores later. I added 3 BlackMarket Titans as an example of this working ( and to have a bit of fun )."
+	"addonversion"			"1.0.0"
+	"addonauthor"			"Yoshi the Hut"
+
+	"addonContent_Script"	"1"
+}
