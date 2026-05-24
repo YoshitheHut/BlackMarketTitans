@@ -2,7 +2,7 @@
 {
 	"addontitle"			"Black Market Titan Project I4"
 	"addonDescription"		"Mainly makes adding your own custom titans easy, adds 3 BlackMarket Titans as examples to use in game and in code."
-	"addonversion"			"1.0.0"
+	"addonversion"			"1.0.2"
 	"addonauthor"			"Yoshi the Hut"
 
 	"addonContent_Script"	"1"
