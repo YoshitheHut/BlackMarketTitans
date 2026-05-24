@@ -40,7 +40,7 @@
         dodgeStopSpeed		250
         dodgeHeight			600
         dodgeHeightMax		700
-        dodgePowerDrain		33
+        dodgePowerDrain		50
         powerregenrate 		8
         dodgePowerDelay		0.2
 
@@ -109,7 +109,7 @@
 			}
 			sflag_bc_dash_capacity
 			{
-				dodgePowerDrain		25
+				dodgePowerDrain		33
 				powerregenrate		3++
 			}
 			pas_titan_punch
