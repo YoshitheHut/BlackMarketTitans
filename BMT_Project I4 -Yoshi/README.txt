@@ -1,5 +1,7 @@
 Put under R1DeltaContent/r1/addons
 
+To disable fully just move the folder out of addons.
+
 Adding a new titan is easy now.
 Also adds 3 BlackMarket Titans as examples that can be used in game too.
 

@@ -1,7 +1,7 @@
 "AddonInfo"
 {
 	"addontitle"			"Black Market Titan Project I4"
-	"addonDescription"		"Mainly makes adding your own custom titans easy, adds 3 BlackMarket Titans as examples to use in game and in code."
+	"addonDescription"		"Mainly makes adding your own custom titans easy, adds 3 BlackMarket Titans as examples to use in game and in code. To disable fully just move the folder out of addons."
 	"addonversion"			"1.0.2"
 	"addonauthor"			"Yoshi the Hut"
 
