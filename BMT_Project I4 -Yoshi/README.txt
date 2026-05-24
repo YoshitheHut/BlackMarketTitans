@@ -1,4 +1,9 @@
+Put under R1DeltaContent/r1/addons
+
 Adding a new titan is easy now.
+Also adds 3 BlackMarket Titans as examples that can be used in game too.
+
+NOTICE: Do not use with mods which drastically alter the game or files that this mod uses, it will be incompatible.
 
 Make sure you have your SET file in the proper place.
 
