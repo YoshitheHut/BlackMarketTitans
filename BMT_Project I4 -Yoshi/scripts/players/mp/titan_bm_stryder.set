@@ -36,10 +36,10 @@
 		dodgeDuration		0.32
         dodgeAnimDuration	0.5
         dodgeInterval		0.2
-        dodgeSpeed			680
+        dodgeSpeed			100
         dodgeStopSpeed		250
-        dodgeHeight			12
-        dodgeHeightMax		25
+        dodgeHeight			600
+        dodgeHeightMax		700
         dodgePowerDrain		33
         powerregenrate 		8
         dodgePowerDelay		0.2
