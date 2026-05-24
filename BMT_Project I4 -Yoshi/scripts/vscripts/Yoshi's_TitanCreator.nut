@@ -59,7 +59,7 @@ function setUp( script_int )//I shoulda had this as a bool but eh
 
 	BlackMarketTitan_Construct( is_item, "titan_ion", "special_atlas", "titan_atlas", 50, "Black Market Atlas", "Modified Atlas with a focus on the balance between speed and armor.", ATLAS_IMG_IMC, ATLAS_IMG_MCO, DAS_COR_NAM, DAS_COR_DES, DAS_COR_IMG, 85, 90, 76, 2 )
 	BlackMarketTitan_Construct( is_item, "titan_bm_ogre", "special_ogre", "titan_ogre", 50, "Black Market Ogre", "Modified Ogre with a focus on assault based missions and 'One Big Boost'.", OGRE_IMG_IMC, OGRE_IMG_MCO, DMG_COR_NAM, DMG_COR_DES, DMG_COR_IMG, 90, 90, 76, 1 )
-	BlackMarketTitan_Construct( is_item, "titan_bm_stryder", "special_stryder", "titan_stryder", 50, "Black Market Stryder", "Modified Stryder with a focus on sustaining and returning fire.", STRYDER_IMG_IMC, STRYDER_IMG_MCO, SHI_COR_NAM, SHI_COR_DES, SHI_COR_IMG, 95, 100, 57, 3 )
+	BlackMarketTitan_Construct( is_item, "titan_bm_stryder", "special_stryder", "titan_stryder", 50, "Black Market Stryder", "Modified Stryder with a focus on height advantage.", STRYDER_IMG_IMC, STRYDER_IMG_MCO, SHI_COR_NAM, SHI_COR_DES, SHI_COR_IMG, 95, 100, 57, 2 )
 }
 
 function BlackMarketTitan_Construct( is_item, name, type, embark_override, unlock_level, game_name, game_desc, titan_img_imc, titan_img_mcor, core_name, core_desc, core_img, statSpeed, statAccel, statHealth, statDash )
